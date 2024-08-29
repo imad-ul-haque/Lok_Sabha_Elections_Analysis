@@ -1,7 +1,7 @@
 So, during data scraping, we found out that we have multiple files, so to merge them all into one, instead of using an application we felt it appropriate to write a program
 
 ```python
-year = 2019
+year = 2014
 years = {2014:2, 2019:4, 2024:6}
 header = ''',election_year,pc_name,pc_no,electors,male_electors,female_electors,booths,votes_polled,male_voters,female_voters'''
 csv = ''
