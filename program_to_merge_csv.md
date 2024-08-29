@@ -15,7 +15,7 @@ for year in list(years.keys()):
     year += 5
 
 final_csv = header  + csv
-final_csv = final_csv.replace(r'\n\n\n','\n') # Interesting this won't work without \n
+final_csv = final_csv.replace(r'\n\n\n','\n') # Interesting this won't work without r
 
 # Making sure our merged CSV file is shared
 with open("merged.csv", 'w') as merged:
