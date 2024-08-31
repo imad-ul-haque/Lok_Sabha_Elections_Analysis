@@ -1,0 +1,1 @@
+- 2 out of every 3 people who vote in Indian elections are women. 
