@@ -76,4 +76,4 @@ Here is the code file link:https://github.com/imad-ul-haque/Pixel-Pioneers_008/b
 Please scan the QR code to access our interactive dashboard and explore the data-driven insights. 
 This QR code will take you directly to the Streamlit platform, where you can interact with our dashboard and analyze the data in detail.
 
-![QR Code](https://github.com/user-attachments/assets/785a6fae-b08a-41fc-93fa-e1e543f9f317)
+![Dashboard QR Code](https://github.com/user-attachments/assets/3adee22c-ec95-4b40-9431-f177279746f3)
