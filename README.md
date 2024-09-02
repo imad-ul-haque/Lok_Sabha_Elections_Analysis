@@ -62,3 +62,9 @@ Here the code file link :codeforwebscraping.ipynb
 
 # STEPS FOR DATA CLEANING :
 
+1. Concatenation of Data: Combined multiple CSV files into a single data frame using pandas' concat() function. This step ensured all relevant data was consolidated into a single structure for uniform analysis.
+
+2. Renaming Columns: Standardized column names to ensure consistency. For example, changed all column names to match the respective requirements.
+
+
+
