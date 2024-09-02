@@ -1,6 +1,6 @@
 # Lok Sabha Elections
 
-![Lok Sabha Election](https://github.com/user-attachments/assets/6514c032-91ab-4b7b-b4ab-994115672bd3)
+![Lok Sabha Election](https://github.com/user-attachments/assets/74bba43a-ef71-4c0c-92ee-0ef20e896179)
 
 # Overview
 This project delves into the intricacies of India's democratic process through a detailed analysis of Lok Sabha elections from 1977 to 2019. It aims to uncover insights into voter behavior, political party performance, and key factors influencing election outcomes.
@@ -60,4 +60,5 @@ Overall, this code automates logging into LinkedIn and scraping data from job li
 
 Here the code file link :codeforwebscraping.ipynb
 
-   
+# STEPS FOR DATA CLEANING :
+
