@@ -56,9 +56,12 @@ STEPS OF DATA SCRAPPING FROM THE Indian Lok Sabha Elections.
     If the code successfully finds each data element, it stores the information in the container created earlier.
 
 
-Overall, this code automates logging into LinkedIn and scraping data from job listings across potentially multiple pages.
+Overall, this code automates Visiting the given websites and scraping data from Election details across potentially multiple pages.
 
-Here the code file link :codeforwebscraping.ipynb
+Here is the code file link:https://github.com/imad-ul-haque/Pixel-Pioneers_008/blob/main/Code_for_Data_Scrapping_.ipynb
+
+![ER Diagram](https://github.com/user-attachments/assets/c999cfa7-b305-42bb-9bdd-84b62dc84eb0)
+
 
 # STEPS FOR DATA CLEANING :
 
