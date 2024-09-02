@@ -73,7 +73,14 @@ Here is the code file link:https://github.com/imad-ul-haque/Pixel-Pioneers_008/b
 
 # Dashboard:
 
-Please scan the QR code to access our interactive dashboard and explore the data-driven insights. 
+To access our interactive dashboard and explore the data-driven insights, click on the given link below. 
+This will take you directly to the Streamlit platform, where you can interact with our dashboard and analyze the data in detail.
+
+Dashboard link: (https://lok-sabha-election-analysis.streamlit.app/)
+
+OR
+
+You can scan the given QR code to access our interactive dashboard and to explore the data-driven insights. 
 This QR code will take you directly to the Streamlit platform, where you can interact with our dashboard and analyze the data in detail.
 
 ![Dashboard QR Code](https://github.com/user-attachments/assets/3adee22c-ec95-4b40-9431-f177279746f3)
