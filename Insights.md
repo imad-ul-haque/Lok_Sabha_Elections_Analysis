@@ -1,1 +1,1 @@
-- 2 out of every 3 people who vote in Indian elections are women. 
+- 2 out of every 3 electors generally vote in elections on an average, this used to be not true for women, but in 2019 they caught up with men in this regard.
