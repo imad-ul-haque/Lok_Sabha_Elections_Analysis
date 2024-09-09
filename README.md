@@ -289,7 +289,7 @@ t2.to_csv("Table_2.csv")
 t3.to_csv("Table_3.csv")
 ```
 
-**Outcome**: The cleaned data is saved in `Table_1.csv`, `Table_2.csv`, and `Table_3.csv`, ready for download and is downloaded using the files.download() function.
+**Outcome**: The cleaned data is saved in `Table_1.csv`, `Table_2.csv`, and `Table_3.csv`, ready for download, and is downloaded using the files.download() function.
 
 --------
 
@@ -300,10 +300,3 @@ To access our interactive dashboard and explore the data-driven insights, click 
 This will take you directly to the Streamlit platform, where you can interact with our dashboard and analyze the data in detail.
 
 Dashboard link: (https://lok-sabha-election-analysis.streamlit.app/)
-
-OR
-
-You can scan the given QR code to access our interactive dashboard and to explore the data-driven insights. 
-This QR code will take you directly to the Streamlit platform, where you can interact with our dashboard and analyze the data in detail.
-
-![Dashboard QR Code](https://github.com/user-attachments/assets/3adee22c-ec95-4b40-9431-f177279746f3)
