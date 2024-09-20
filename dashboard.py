@@ -55,7 +55,7 @@ st.markdown("<h1 class='gradient-text'>Lok Sabha Election Analysis</h1><br><br>"
 
 
 
-gemini_api = "AIzaSyAlzvQ_9dUdj5z-AUjsYOM5uHP-XPUvKAQ"  # Replace this with your actual key
+gemini_api = st.secrets["gemini_api"]
 
 # Configure the Gemini model with the API key
 genai.configure(api_key=gemini_api)
